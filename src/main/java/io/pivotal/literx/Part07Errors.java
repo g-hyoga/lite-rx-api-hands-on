@@ -16,8 +16,6 @@
 
 package io.pivotal.literx;
 
-import java.util.Arrays;
-
 import io.pivotal.literx.domain.User;
 import reactor.core.Exceptions;
 import reactor.core.publisher.Flux;
